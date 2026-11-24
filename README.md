@@ -1,7 +1,3 @@
-# EGG-Ninja-
-A Python-based Fruit/Egg Ninja style vision game built with OpenCV, MediaPipe Hand Tracking, Pygame Audio, and NumPy. Slice items with your fingers, avoid bombs, and watch characters scream and shatter!
-
-
 # 🥚 Egg Ninja - Hand Tracking Slice Game
 
 An interactive, computer vision-based arcade game inspired by Fruit Ninja, built in Python. Players use their hand gestures (tracked via MediaPipe) to slice flying eggs and characters while avoiding dangerous bombs, complete with dynamic audio effects and progressive difficulty scaling!
